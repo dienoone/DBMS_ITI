@@ -1,0 +1,7 @@
+id int pk autoincrement:name str notnull:age number
+1:Alice:30
+2:Doe:20
+3:Mohammed:30
+4:Ahmed:30
+5:Rana:30
+6:Alice:30

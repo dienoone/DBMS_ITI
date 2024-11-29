@@ -1,0 +1,5 @@
+id int pk:name str notnull:age int
+1:Alice:mohammed
+2:mohammed:ahmed
+
+(name=mohammed AND (id=2 OR age>20)) 
